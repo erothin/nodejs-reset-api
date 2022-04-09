@@ -1,4 +1,4 @@
-# Node.js Rest APIs with Express & MySQL & JWT example
+# Node.js Rest APIs Example
 
 ## Project setup
 ```
