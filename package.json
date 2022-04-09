@@ -1,7 +1,9 @@
 {
-  "name": "erothin-nodejs-jwt-example",
+  "name": "nodejs-rest-api",
   "version": "1.0.0",
-  "description": "Node.js Demo with JWT Authentication",
+  "description": "Node.js Rest API Demo with JWT Authentication",
+  "author": "Chintan Prajapati<chintan@erothin.com>",
+  "license": "MIT",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,8 +16,6 @@
     "authentication",
     "mysql"
   ],
-  "author": "Chintan Prajapati<chintan@erothin.com>",
-  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
